@@ -155,7 +155,7 @@ npm run test
 
 ---
 
-### Reading all tasks
+### Read all tasks
 
 - Route: /tasks
 - Method: Get
