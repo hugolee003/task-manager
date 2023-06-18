@@ -9,7 +9,7 @@
 
 <div>
   <p align="center">
-    <a href="https://github.com/hugolee003/blogify#readme"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/hugolee003/task-manager#readme"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://motionless-ox-zipper.cyclic.app/">Demo</a>
@@ -234,7 +234,7 @@ npm run test
 
 ---
 
-### Update the blog
+### Update the task
 
 - Route: /tasks/:id
 - Method: PUT
@@ -266,7 +266,7 @@ npm run test
 
 ---
 
-### Delete specific blogs
+### Delete specific tasks 
 
 - Route: /tasks/:id
 - Method: DELETE
